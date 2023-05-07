@@ -1,4 +1,4 @@
-# -Udacity_Cloud-_Devops-Deploy-Static-Website-on-AWS
+# Udacity-Cloud-Devops-Deploy-Static-Website-on-AWS
 ##steps Using AWS Console:
 
 1- Create S3 bucket --> we will name it as static-website-bucket-AWSID(must be globally unique) --> Allow public access
